@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "+bQS/qpH2rQ=",
+  "dgSpecHash": "uQxlx77T00M=",
   "success": true,
   "projectFilePath": "E:\\Проекти\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Bobi Bintev\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
   "logs": []
 }
