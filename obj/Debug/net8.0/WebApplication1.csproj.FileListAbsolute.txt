@@ -28,3 +28,4 @@ E:\Проекти\WebApplication1\WebApplication1\obj\Debug\net8.0\refint\WebApp
 E:\Проекти\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.pdb
 E:\Проекти\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.genruntimeconfig.cache
 E:\Проекти\WebApplication1\WebApplication1\obj\Debug\net8.0\ref\WebApplication1.dll
+E:\Проекти\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.sourcelink.json
