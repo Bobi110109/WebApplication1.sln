@@ -11,7 +11,7 @@ EXPOSE 8080
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 ARG BUILD_CONFIGURATION=Release
 WORKDIR /src
-COPY WebApplication1/WebApplication1.csproj ./WebApplication1/
+COPY WebApplication1/ ./WebApplication1/
 RUN dotnet build -c $BUILD_CONFIGURATION -o /app/build
 WORKDIR /src/WebApplication1
 RUN dotnet build "./WebApplication1.csproj" -c $BUILD_CONFIGURATION -o /app/build
